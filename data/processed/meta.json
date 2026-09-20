@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-09-20T12:10:22.694Z",
+  "referenceYear": 2026,
+  "referenceMonth": 9,
+  "totalStations": 32,
+  "statusCounts": {
+    "critique": 2,
+    "alerte": 0,
+    "vigilance": 0,
+    "normal": 29,
+    "faible": 1
+  },
+  "levels": [
+    "critique",
+    "alerte",
+    "vigilance",
+    "normal",
+    "faible"
+  ]
+}
